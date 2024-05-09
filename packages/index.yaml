@@ -3,9 +3,9 @@ entries:
   dcgm-exporter:
   - apiVersion: v2
     appVersion: 3.4.1
-    created: "2024-05-09T07:27:55.229630861Z"
+    created: "2024-05-09T07:48:36.517368025Z"
     description: A Helm chart for DCGM exporter
-    digest: 5b6501a3ad705c515ad63dd9099f3b8323ac86de9782d117b47c0b8b4194b87a
+    digest: a25d520f60a2bc108333a4ed7f864bc340c40b7688beadcdccf901abcb5233b8
     home: https://github.com/nvidia/dcgm-exporter/
     icon: https://assets.nvidiagrid.net/ngc/logos/DCGM.png
     keywords:
@@ -20,6 +20,6 @@ entries:
     sources:
     - https://github.com/nvidia/dcgm-exporter
     urls:
-    - dcgm-exporter-3.4.1.tgz
+    - dcgm-exporter/dcgm-exporter-3.4.1.tgz
     version: 3.4.1
-generated: "2024-05-09T07:27:55.229052016Z"
+generated: "2024-05-09T07:48:36.516798093Z"
