@@ -148,9 +148,9 @@ extraVolumeMounts: []
 #  mountPath: /opt/bin
 #  readOnly: true
 
-extraEnv:
-- name: DCGM_EXPORTER_CONFIGMAP_DATA
-  value: "prometheus:exporter-metrics-config-map"
+extraEnv: []
+#- name: DCGM_EXPORTER_CONFIGMAP_DATA
+#  value: "prometheus:exporter-metrics-config-map"
 
 
 # Path to the kubelet socket for /pod-resources
